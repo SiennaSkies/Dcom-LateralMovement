@@ -18,4 +18,4 @@ rhost：要横向移动到的目标靶机的IP
 ![image](https://github.com/SiennaSkies/Dcom-LateralMovement/assets/105592340/0e7de4a5-9432-4bd6-b367-19907aa35850)
 3. 在client74中运行脚本
 ![image](https://github.com/SiennaSkies/Dcom-LateralMovement/assets/105592340/a20e96ed-d847-42dc-8519-93740c11e556)
-4. kali收到来自web01的shell
+4. kali收到来自web04的shell
