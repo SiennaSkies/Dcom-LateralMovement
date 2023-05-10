@@ -12,7 +12,7 @@ rhost：要横向移动到的目标靶机的IP
 
 演示案例：
 我们已经获得192.168.50.74 - client74的控制权限
-想要横向移动到192.168.50.72 - web01主机
+想要横向移动到192.168.50.72 - web04主机
 
 1. 在kali开启监听
 ![image](https://github.com/SiennaSkies/Dcom-LateralMovement/assets/105592340/0e7de4a5-9432-4bd6-b367-19907aa35850)
